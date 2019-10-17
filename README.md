@@ -15,3 +15,6 @@
 
 - **Old Exam**
 [Old Exam](https://github.com/synac1/CMP1672019FallMW/blob/master/exam1_f16(2).pdf)
+
+-**Take Home Test**
+[Take Home Test](https://github.com/synac1/CMP1672019FallMW/blob/master/THT.pdf)
