@@ -18,3 +18,6 @@
 
 -**Take Home Test**
 [Take Home Test](https://github.com/synac1/CMP1672019FallMW/blob/master/THT.pdf)
+
+-**Old Exam Solution**
+[Solution of old exam](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/f16/exams-current/Exam1/exam1_f16_solutions.pdf)
