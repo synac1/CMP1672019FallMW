@@ -19,10 +19,13 @@
 -**Take Home Test**
 [Take Home Test](https://github.com/synac1/CMP1672019FallMW/blob/master/THT.pdf)
 
--**Old Exam Solution**
+- **Old Exam Solution**
 [Solution of old exam](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/f16/exams-current/Exam1/exam1_f16_solutions.pdf)
 
--**A exam 2016**
+- **A exam 2016**
 [Final Exam Fall 2016 ](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/f16/exams-current/Exam2/exam2_f16.pdf)
--**Final exam  Spring 2016**
+- **Final exam  Spring 2016**
 [Final Exam Spring 2016 ](http://comet.lehman.cuny.edu/sfakhouri/teaching/cmp/cmp167/s16/exams-current/Final/final_s16.pdf)
+
+- **Final Exam Spring 2019**
+[Final Exam Spring 2019](https://github.com/synac1/CMP1672019FallMW/tree/master/Final%20Exams)
